@@ -36,5 +36,9 @@ $(document).ready(function(){
   $('#twitter').tooltip();
 });
 
+$(document).ready(function(){
+  $('#facebook').tooltip();
+});
+
 
 });
