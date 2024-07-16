@@ -28,4 +28,13 @@ $(document).ready(function(){
   $('#pincha').tooltip();
 });
 
+$(document).ready(function(){
+  $('#linkedin').tooltip();
+});
+
+$(document).ready(function(){
+  $('#twitter').tooltip();
+});
+
+
 });
