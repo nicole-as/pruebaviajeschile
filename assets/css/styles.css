@@ -1,0 +1,62 @@
+
+body{
+    background: #000000 !important;
+}
+
+
+.imagenNavbar {
+    width: 46px;
+    height: 45px;
+}
+
+
+
+.fondofooter{
+    background:#5cc7ec;
+    height: 74px;
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 34rem !important;
+}
+
+.iconofooter{
+    font-size: 30px;
+}
+
+
+.caja{
+    background: #5cc7ec;
+    width:100%;
+    height:35px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+
+}
+
+.card-body{
+ background: #5cc7ec;
+}
+
+
+.cardfi{
+    row-gap: 4rem !important;
+}
+
+
+.texto1{
+font-family: "Open Sans", sans-serif;
+font-weight: 400;
+}
+
+.texto2{
+font-family: "Open Sans", sans-serif;
+font-weight: 400;
+}
+
+.texto3{
+font-family: "Open Sans", sans-serif;
+font-weight: 300;
+}
