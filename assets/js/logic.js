@@ -41,4 +41,13 @@ $(document).ready(function(){
 });
 
 
+
+
+  $("H1").dblclick(function(){      
+      $(this).css({
+      "color": "red",
+      });
+  });
+
+
 });
